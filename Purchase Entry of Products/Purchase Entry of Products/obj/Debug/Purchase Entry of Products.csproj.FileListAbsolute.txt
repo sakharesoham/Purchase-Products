@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\bin\Debug\Purchase Entry of Products.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\bin\Debug\Purchase Entry of Products.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\bin\Debug\Purchase Entry of Products.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase Entry of Products.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.frmPurchaseEntry.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.frmCompanyRegistration.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.frmModelRegistration.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.frmNewProductInfo.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.frmSupplierRegistration.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase Entry of Products.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase Entry of Products.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase Entry of Products.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Purchase Entry of Products\Purchase Entry of Products\obj\Debug\Purchase_Entry_of_Products.frmMain.resources
